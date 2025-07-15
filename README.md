@@ -1,4 +1,4 @@
-# California Housing Price Prediction & Fundamentals
+# California Housing Price Prediction
 
 ## Project Overview
 
